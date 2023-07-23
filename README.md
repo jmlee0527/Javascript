@@ -1,6 +1,6 @@
 # Javascript
 
-### Javascript란?
+## Javascript란?
 JavaScript는 객체 기반의 스크립트 프로그래밍 언어로 웹의 동적 동작을 구현하고 상호작용하는 기능을 제공한다.
 
 JavaScript는 동적인 언어라는 특징을 가지며 변수의 선언과 데이터 타입을 사전에 명시하지 않고 유연하게 사용이 가능하다.
